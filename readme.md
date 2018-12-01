@@ -47,6 +47,10 @@ Monica is an open-source web application to organize the interactions with your 
 
 We also have official [open source mobile apps](https://github.com/monicahq/chandler) but they are extremely basic at this point and not well maintained.
 
+### Heroku Installation
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/esokullu/monica/tree/master)
+
 ### Purpose
 
 Monica allows people to keep track of everything that's important about their friends and family. Like the activities done with them. When you last called someone. What you talked about. It will help you remember the name and the age of the kids. It can also remind you to call someone you haven't talked to in a while.
